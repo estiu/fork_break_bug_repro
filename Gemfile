@@ -45,3 +45,4 @@ group :development do
   gem 'spring'
 end
 
+gem 'fork_break', github: 'forkbreak/fork_break', ref: 'd940d29d4e646f7756aaedffd71e1d081e3e7754'
